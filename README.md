@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - <img alt="Python" src="https://img.shields.io/badge/-Python-3366FF?style=flat-square&logo=python&logoColor=white" />
 - <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
 - <img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+- <img alt="Tensorflow" src="https://simpleicons.org/?q=scikit-" />
 - <img alt="scikit-learn" src="https://img.shields.io/badge/-scikit-learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
