@@ -3,7 +3,6 @@
 <p><b>Welcome to my github profile!</b> </br> I'm <b>Thuy</b>, currently living in <b>Hanoi, Vietnam</b>. </p>
 
 <h3>Things I've already know basically!</h3>
-<p>
   - <img alt="Python" src="https://img.shields.io/badge/-Python-3366FF?style=flat-square&logo=python&logoColor=white" />
   - <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
   - <img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
@@ -15,7 +14,6 @@
   - <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   - <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   - <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-</p>
 
 1. Học
 2. ăn
