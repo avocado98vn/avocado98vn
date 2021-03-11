@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-1. Học
-2. ăn
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
