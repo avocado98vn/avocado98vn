@@ -7,7 +7,6 @@
 <h3>Things I've already know basically:</h3>
 
 - <img alt="Python" src="https://img.shields.io/badge/-Python-3366FF?style=flat-square&logo=python&logoColor=white" />
-- <img alt="Flask" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
 - <img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
 - <img alt="scikit-learn" src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit--&logoColor=white" />
 - <img alt="machine-learning" src="https://img.shields.io/badge/-Machine--Learning-33CC33?style=flat-square&logo=scikit--&logoColor=white" />
@@ -18,8 +17,8 @@
 
 <h3>Things I'm learning:</h3>
 
-- <img alt="Flask" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
-- <img alt="NLP" src="https://img.shields.io/badge/-Natural--Language--Processing-03C75A?style=flat-square&logo=django&logoColor=white" />
+- <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+- <img alt="NLP" src="https://img.shields.io/badge/-Natural--Language--Processing-03C75A?style=flat-square&logo=nlp&logoColor=white" />
 
 
 <h3>Where to find me</h3>
