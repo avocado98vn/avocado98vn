@@ -2,8 +2,6 @@
 
 <p><b>Welcome to my GitHub profile!</b> </br> I'm <b>Thuy</b>, currently living in <b>Hanoi, Vietnam</b>. </p>
 
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-
 <h3>Things I've already know basically:</h3>
 
 - <img alt="Python" src="https://img.shields.io/badge/-Python-3366FF?style=flat-square&logo=python&logoColor=white" />
@@ -12,8 +10,8 @@
 - <img alt="machine-learning" src="https://img.shields.io/badge/-Machine--Learning-33CC33?style=flat-square&logo=scikit--&logoColor=white" />
 - <img alt="Numpy" src="https://img.shields.io/badge/-Numpy-013243?style=flat-square&logo=Numpy-&logoColor=white" />
 - <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas-&logoColor=white" />
-- <img alt="Pandas" src="https://img.shields.io/badge/-Jupyter--Notebook-F37626?style=flat-square&logo=jupyternotebook-&logoColor=white" />
-- <img alt="Pandas" src="https://img.shields.io/badge/-Google--Colab-F9AB00?style=flat-square&logo=google--colab-&logoColor=white" />
+- <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter--Notebook-F37626?style=flat-square&logo=Jupyter-&logoColor=white" />
+- <img alt="Colab" src="https://img.shields.io/badge/-Google--Colab-F9AB00?style=flat-square&logo=google--colab-&logoColor=white" />
 
 <h3>Things I'm learning:</h3>
 
