@@ -11,7 +11,7 @@
 - <img alt="Numpy" src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" />
 - <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
 - <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter--Notebook-F37626?style=flat&logo=Jupyter&logoColor=white" />
-- <img alt="Colab" src="https://img.shields.io/badge/Google--Colab-F9AB00?style=flat&logo=Colab&logoColor=white" />
+- <img alt="Colab" src="https://img.shields.io/badge/Google--Colab-F9AB00?style=flat&logo=google-colab&logoColor=white" />
 
 <h3>Things I'm learning:</h3>
 
