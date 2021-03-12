@@ -16,6 +16,7 @@
 - <img alt="Pandas" src="https://img.shields.io/badge/-Jupyter--Notebook-F37626?style=flat-square&logo=jupyternotebook-&logoColor=white" />
 - <img alt="Pandas" src="https://img.shields.io/badge/-Google--Colab-F9AB00?style=flat-square&logo=google--colab-&logoColor=white" />
 - 
+![googlechat](https://user-images.githubusercontent.com/72306412/110887893-b641fc00-831d-11eb-9bdf-6e1f295572c3.jpg)
 
 
 <h3>Open source projects</h3>
