@@ -13,6 +13,7 @@
 - <img alt="machine-learning" src="https://img.shields.io/badge/-Machine--Learning-33CC33?style=flat-square&logo=scikit--&logoColor=white" />
 - <img alt="Numpy" src="https://img.shields.io/badge/-Numpy-013243?style=flat-square&logo=Numpy-&logoColor=white" />
 - <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas-&logoColor=white" />
+- <img alt="Pandas" src="https://img.shields.io/badge/-Jupyter--Notebook-F37626?style=flat-square&logo=jupyternotebook-&logoColor=white" />
 
 <h3>Open source projects</h3>
 <table>
