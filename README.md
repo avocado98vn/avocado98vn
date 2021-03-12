@@ -6,7 +6,7 @@
 
 - <img alt="Python" src="https://img.shields.io/badge/Python-3366FF?style=flat&logo=python&logoColor=white" />
 - <img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-- <img alt="scikit-learn" src="https://img.shields.io/badge/-scikit--learn-F7931E?&style=flat&logo=scikit-learn&logoColor=white" />
+- <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?&style=flat&logo=scikit-learn&logoColor=white" />
 - <img alt="machine-learning" src="https://img.shields.io/badge/Machine--Learning-33CC33?style=flat&logo=scikit&logoColor=white" />
 - <img alt="Numpy" src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" />
 - <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
