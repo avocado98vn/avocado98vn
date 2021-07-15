@@ -15,7 +15,7 @@
 
 <h3>Things I'm learning:</h3>
 
-- <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+- <img alt="NLP" src="https://img.shields.io/badge/Natural--Language--Processing-03C75A?style=flat&logo=nlp&logoColor=white" />
 - <img alt="NLP" src="https://img.shields.io/badge/Natural--Language--Processing-03C75A?style=flat&logo=nlp&logoColor=white" />
 
 
